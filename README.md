@@ -1,1 +1,1 @@
-demo - simple edit trigger CI/CD
+This is demo of - simple edit trigger CI/CD
