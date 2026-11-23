@@ -61,6 +61,7 @@ jobs:
     name: 5️⃣ Deploy to GitHub Pages
     runs-on: ubuntu-latest
     needs: stage-4-build-preview
+    permissions: write-all
     steps:
       - uses: actions/checkout@v3
 
